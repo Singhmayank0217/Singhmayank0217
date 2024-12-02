@@ -96,3 +96,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
 </p>
 
+<h2 align="center">📜 Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+<h2 align="center">👀 Visitor Count</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Singhmayank0217/count.svg" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+</p>
+
