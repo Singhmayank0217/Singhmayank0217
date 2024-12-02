@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Mayank;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mayank+Singh;Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=535&lines=🎓+3rd-year+B.E.+CSE+student+at+Chandigarh+University;Passionate+Web+Developer+%26+AI/ML+Enthusiast;Always+learning,+always+growing+🚀" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=🎓+3rd-year+B.E.+CSE+student+at+Chandigarh+University;Passionate+Web+Developer+%26+AI/ML+Enthusiast;Always+learning,+always+growing+🚀" alt="About Me" />
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **AI/ML and Advanced Web Development**
 - 💬 Ask me about **MERN Stack and AI/ML concepts**
 - 📫 How to reach me: **coolsinghmayank@gmail.com**
-- ⚡ Fun fact: **Chai tastes way better than Coffee | Change my mind!**
+- ⚡ Fun fact: **I'm a chai connoisseur! ☕️ Nothing beats a perfect cup of chai to fuel my coding sessions.**
 
 <h2 align="center">🌐 Connect with me</h2>
 
@@ -76,32 +76,29 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Singhmayank0217/Singhmayank0217/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singhmayank0217/Singhmayank0217/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Singhmayank0217/Singhmayank0217/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Singhmayank0217/Singhmayank0217/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
-<h2 align="center">📌 Pinned Repositories</h2>
+<h2 align="center">📌 Pinned Repository</h2>
 
 <p align="center">
-  <a href="https://github.com/Singhmayank0217/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=awesome-project&theme=radical" alt="Awesome Project" />
-  </a>
-  <a href="https://github.com/Singhmayank0217/cool-ai-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=cool-ai-app&theme=radical" alt="Cool AI App" />
+  <a href="https://github.com/Singhmayank0217/S-RAJ-INFRA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=S-RAJ-INFRA&theme=radical" alt="S-RAJ-INFRA" />
   </a>
 </p>
 
-<h2 align="center">🎵 Spotify Now Playing</h2>
+<h2 align="center">☕️ Chai Time Coding</h2>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" alt="Chai Time" width="200">
 </p>
 
-<h2 align="center">☕ Buy me a Chai</h2>
-
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" >
-  </a>
+  <em>Fueling my code with the perfect blend of chai and creativity! ☕️💻</em>
 </p>
 
 <p align="center">
