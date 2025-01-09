@@ -65,8 +65,8 @@
   <a href="https://github.com/Singhmayank0217/S-RAJ-INFRA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=S-RAJ-INFRA&theme=radical" alt="S-RAJ-INFRA" />
   </a>
-  <a href="https://github.com/Singhmayank0217/AI-Image-Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=AI-Image-Classifier&theme=radical" alt="AI Image Classifier" />
+  <a href="https://github.com/Singhmayank0217/AskForDate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=AskForDate&theme=radical" alt="Ask For Date" />
   </a>
 </p>
 
