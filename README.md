@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" />
 </div>
 
 <h3 align="center">
@@ -34,6 +34,9 @@
   <a href="https://www.linkedin.com/in/mayank-singh-a4805327b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://twitter.com/mayank_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
 ---
@@ -51,6 +54,20 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+<h2 align="center">🎨 Projects & Highlights</h2>
+
+<p align="center">
+  <a href="https://github.com/Singhmayank0217/S-RAJ-INFRA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=S-RAJ-INFRA&theme=radical" alt="S-RAJ-INFRA" />
+  </a>
+  <a href="https://github.com/Singhmayank0217/AI-Image-Classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=AI-Image-Classifier&theme=radical" alt="AI Image Classifier" />
+  </a>
 </p>
 
 ---
@@ -87,20 +104,10 @@
 
 ---
 
-<h2 align="center">📌 Pinned Repository</h2>
-
-<p align="center">
-  <a href="https://github.com/Singhmayank0217/S-RAJ-INFRA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=S-RAJ-INFRA&theme=radical" alt="S-RAJ-INFRA" />
-  </a>
-</p>
-
----
-
 <h2 align="center">☕️ Chai Time Coding</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif" alt="Chai Time" width="200" />
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" alt="Chai Time" width="200" />
 </p>
 
 <p align="center">
