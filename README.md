@@ -4,7 +4,12 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" />
+  <br>
+  <p>
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Tea Time" width="100" />
+  </p>
 </div>
+
 
 
 <h3 align="center">
