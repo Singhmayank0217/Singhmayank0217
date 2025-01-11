@@ -3,8 +3,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" />
 </div>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=🎓+3rd-year+CSE+student+at+Chandigarh+University;🚀+Passionate+Web+Developer+%26+AI/ML+Enthusiast;📚+Always+Learning,+Always+Growing" alt="About Me" />
