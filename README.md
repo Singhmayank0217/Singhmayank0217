@@ -1,102 +1,142 @@
-<h1 align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Mayank%20Singh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=51&descAlign=62" width="100%" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Mayank+Singh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Crafting+Digital+Experiences+%F0%9F%8E%A8;Exploring+AI+Frontiers+%F0%9F%A4%96;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
   </a>
-</h1>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-<br/>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Singhmayank0217&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-  </a>
-</p>
-
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Singhmayank0217&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhmayank0217&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Singhmayank0217&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Singhmayank0217&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Singhmayank0217&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=6366F1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhmayank0217&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
 </div>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Singhmayank0217&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1" />
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" height="24px">
+    Tech Stack & Skills
+  </h2>
+</div>
 
 ```typescript
-const mayank = {
-  education: "3rd Year CSE @ Chandigarh University",
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind CSS", "Material-UI", "Styled Components"]
+class Developer {
+  name: string = "Mayank Singh";
+  role: string = "Full Stack Developer";
+  location: string = "Chandigarh, India";
+  education = {
+    university: "Chandigarh University",
+    degree: "B.Tech in Computer Science",
+    year: 3
+  };
+  
+  skills = {
+    languages: ["TypeScript", "JavaScript", "Python", "Java"],
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      styling: ["Tailwind CSS", "Material-UI", "Styled Components"],
+      state: ["Redux", "Zustand", "React Query"]
     },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      python: ["FastAPI", "Django"]
+    backend: {
+      node: ["Express", "NestJS", "Prisma"],
+      python: ["FastAPI", "Django"],
+      databases: ["PostgreSQL", "MongoDB", "Redis"]
     },
-    databases: ["MongoDB", "PostgreSQL"],
-    ai_ml: ["TensorFlow", "scikit-learn", "PyTorch"],
-    cloud: ["AWS", "Vercel", "Netlify"]
-  },
-  currentFocus: "Building scalable web applications & exploring AI/ML",
-  funFact: "I debug with chai ☕️ - one cup at a time!"
-};
+    ai_ml: ["TensorFlow", "PyTorch", "scikit-learn"],
+    devops: ["Docker", "AWS", "CI/CD"],
+    currently_learning: ["Rust", "Web3", "System Design"]
+  };
+
+  get contact() {
+    return {
+      email: "coolsinghmayank@gmail.com",
+      linkedin: "mayank-singh-a4805327b",
+      twitter: "@mayank_dev"
+    };
+  }
+
+  get funFact() {
+    return "I believe every bug can be fixed with enough chai ☕️";
+  }
+}
 ```
 
-## 🛠️ Tech Stack
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
+    Tech Stack
+  </h2>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,django,tensorflow,docker" /><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,mongodb,postgres,redis,aws,git,figma,vscode,postman" />
+</div>
 
-## 🌟 Featured Projects
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px" height="30px">
+    Featured Projects
+  </h2>
+</div>
 
 <div align="center">
   <a href="https://github.com/Singhmayank0217/S-RAJ-INFRA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=S-RAJ-INFRA&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=S-RAJ-INFRA&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/Singhmayank0217/AskForDate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=AskForDate&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=AskForDate&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
-## 📈 Activity Graph
-[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Singhmayank0217&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/u4pJXYaD80n9p0vzU5/giphy.gif" width="30px" height="30px">
+    Activity Graph
+  </h2>
+</div>
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank-singh-a4805327b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/mayank_dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:coolsinghmayank@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/mr.suryavanshi17/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Singhmayank0217&custom_title=Mayank's%20GitHub%20Activity&hide_border=true&bg_color=0D1117&line=6366F1&point=FFFFFF&color=FFFFFF&area=true&area_color=6366F1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" height="30px">
+    Connect with Me
+  </h2>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mayank-singh-a4805327b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/mayank_dev">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:coolsinghmayank@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/mr.suryavanshi17/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Singhmayank0217&style=for-the-badge&color=6366F1" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%" />
 </div>
