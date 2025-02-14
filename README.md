@@ -1,127 +1,102 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Mayank+Singh;Welcome+to+my+Profile!!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Mayank+Singh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=🎓+3rd-year+CSE+student+at+Chandigarh+University;🚀+Passionate+Web+Developer+%26+AI/ML+Enthusiast;📚+Always+Learning,+Always+Growing" alt="About Me" />
-</h3>
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Singhmayank0217&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-<h2 align="center">🌟 About Me</h2>
-
-- 🌱 Currently exploring **AI/ML** and **Advanced Web Development**.
-- 💬 Ask me about **MERN Stack, AI/ML concepts, and Web Development.**
-- 📫 Reach me at: **coolsinghmayank@gmail.com**
-- ⚡ Fun fact: **A chai connoisseur ☕️—fueling my code with chai!**
-
----
-
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://instagram.com/mr.suryavanshi17/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/mayank-singh-a4805327b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/mayank_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Singhmayank0217&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
   </a>
 </p>
 
----
+<div align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Singhmayank0217&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhmayank0217&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<h2 align="center">🛠️ Skills & Tools</h2>
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Singhmayank0217&theme=tokyonight&hide_border=true" />
+</div>
+
+## 🚀 About Me
+
+```typescript
+const mayank = {
+  education: "3rd Year CSE @ Chandigarh University",
+  code: ["JavaScript", "TypeScript", "Python", "Java"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind CSS", "Material-UI", "Styled Components"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express"],
+      python: ["FastAPI", "Django"]
+    },
+    databases: ["MongoDB", "PostgreSQL"],
+    ai_ml: ["TensorFlow", "scikit-learn", "PyTorch"],
+    cloud: ["AWS", "Vercel", "Netlify"]
+  },
+  currentFocus: "Building scalable web applications & exploring AI/ML",
+  funFact: "I debug with chai ☕️ - one cup at a time!"
+};
+```
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
----
+## 🌟 Featured Projects
 
-<h2 align="center">🎨 Projects & Highlights</h2>
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/Singhmayank0217/S-RAJ-INFRA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=S-RAJ-INFRA&theme=radical" alt="S-RAJ-INFRA" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=S-RAJ-INFRA&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Singhmayank0217/AskForDate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=AskForDate&theme=radical" alt="Ask For Date" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Singhmayank0217&repo=AskForDate&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+## 📈 Activity Graph
+[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Singhmayank0217&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-singh-a4805327b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/mayank_dev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:coolsinghmayank@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/mr.suryavanshi17/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Singhmayank0217&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Singhmayank0217&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Singhmayank0217&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Singhmayank0217&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhmayank0217&bg_color=1a1b27&color=a8fdf6&line=628fdb&point=a8fdf6&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-<h2 align="center">☕️ Chai Time Coding</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" alt="Chai Time" width="200" />
-</p>
-
-<p align="center">
-  <em>Fueling my code with the perfect blend of chai and creativity! ☕️💻</em>
-</p>
-
----
-
-<h2 align="center">👀 Visitor Count</h2>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Singhmayank0217/count.svg" alt="Visitor Count" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
+</div>
