@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Mayank%20Singh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Mayank%20Singh&fontSize=85&animation=scaleIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=51&descAlign=62&rotate=13&stroke=ffffff&strokeWidth=2" width="100%" />
 </div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
