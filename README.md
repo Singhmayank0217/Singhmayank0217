@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+the+Future+with+Code+%F0%9F%9A%80;LLM+%26+RAG+Architect+%F0%9F%A7%A0;Crafting+AI-Powered+Solutions+%E2%9C%A8;Chai+%2B+Code+%3D+Magic+%E2%98%95%F0%9F%AA%84" alt="Animated Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+the+Future+with+Code+%F0%9F%9A%80;LLM+%26+RAG+Architect+%F0%9F%A7%A0" alt="Animated Typing SVG" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="10%">
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Singhmayank0217&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=FF6B6B&title_color=FF6B6B&icon_color=4ECDC4&text_color=fff" />
@@ -37,7 +37,7 @@
   <img src="https://streak-stats.demolab.com?user=Singhmayank0217&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="10%">
 
 <div align="center">
   <h2>
@@ -113,8 +113,6 @@ const currentProjects = {
 } as const;
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
 <div align="center">
   <h2>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40px" height="40px">
@@ -143,7 +141,6 @@ const currentProjects = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
 <div align="center">
   <h2>
@@ -162,30 +159,6 @@ const currentProjects = {
   </a>
 </div>
 
-<div align="center">
-  <h3>🚀 Latest AI Projects</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80px" />
-        <br /><b>Smart RAG System</b>
-        <br />Document Intelligence Platform
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="80px" />
-        <br /><b>LLM Chat Interface</b>
-        <br />Multi-model Chat Application
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80px" />
-        <br /><b>AI Code Assistant</b>
-        <br />Intelligent Development Helper
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
 <div align="center">
   <h2>
@@ -199,7 +172,6 @@ const currentProjects = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhmayank0217&custom_title=Mayank's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&line=FF6B6B&point=4ECDC4&color=ffffff&area=true&area_color=FF6B6B&radius=10" width="100%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
 <div align="center">
   <h2>
