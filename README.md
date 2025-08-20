@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://github.com/Singhmayank0217/Singhmayank0217/blob/main/assets/coding.gif" width="900">
 </div>
 
 <div align="center">
@@ -26,8 +26,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="10%">
-
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Singhmayank0217&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=FF6B6B&title_color=FF6B6B&icon_color=4ECDC4&text_color=fff" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhmayank0217&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&layout=compact&text_color=fff" />
@@ -37,15 +35,13 @@
   <img src="https://streak-stats.demolab.com?user=Singhmayank0217&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="10%">
+---
 
 <div align="center">
   <h2>
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="40px" height="40px">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" alt="👨‍💻" width="40" height="40">
+    <img src="https://github.com/Singhmayank0217/Singhmayank0217/blob/main/assets/laptop.gif" width="40px" height="40px">
     About Me
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" alt="👨‍💻" width="40" height="40">
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="40px" height="40px">
+    <img src="https://github.com/Singhmayank0217/Singhmayank0217/blob/main/assets/laptop.gif" width="40px" height="40px">
   </h2>
 </div>
 
@@ -111,7 +107,7 @@ const currentProjects = {
   aiIntegrations: "Seamless AI workflows in full-stack applications",
   openSourceContrib: "Contributing to LLM tooling ecosystem"
 } as const;
-```
+
 
 <div align="center">
   <h2>
